@@ -16,8 +16,8 @@ public class JavaApplication {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("1st line");// 3:27_14:3:2017_1_nghiatt
-        System.out.println("2nd line");// 3:32_14:3:2017_1_nghiatt
+        System.out.println("1st line");//3:27_14:3:2017_1_nghiatt
+        System.out.println("2nd line");//3:32_14:3:2017_1_nghiatt
     }
     
 }
